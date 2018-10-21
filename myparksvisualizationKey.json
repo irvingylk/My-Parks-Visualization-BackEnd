@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "myparksvisualizationapp",
+  "private_key_id": "2ef504e8b59864ea0884b3caef2417e11b65730b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDHdNsbX4hd7NBm\nVZ3dwsWNP3pEBYzB7HQ42F/Sa1wYHe6ITTxY++6kuKeeGYZB1AJnvC1h12mTuS0a\nrYGo5LOgpLeiDBR1UT1uKh4h+vDXziz2svAS+9WJkZUCAhIV1GW1/oWNX2wigE4s\nrJL4gQKFkEbJwtEG/tGtipGtpstNgKxA1law+W5wzh78ZOeag6rQ2MSH4PgYQNwj\n/MrOhzUFgEEdDu22g9ONRRaRbRmihCW4CFJPzzx3dRnvUtf5wilKSfReo4y3VZF4\nl+dcWCx1tInvdLM1RsKdGN0vPUz1PirXWKAgg9aGSx88DLx4OMYu0lMDj8/ujAQ2\njguGWjDVAgMBAAECggEAFz22FEP2+17PT8VVLlR2OYW2hPuSkbwwNLl9vOKWqha+\nxzIcwI+mmJoNqf32Z3BBUX4bWaXEnxp6N3wVOi1gAu1+mkrHDX6IZnBQ74uyiar0\nEVD7aXLfyHZmwwOjwNhte53rSPRgAMsrkMgRHhTGSvLrVLI3MhX6L7sQS4g+c0rA\nyJ5KYWEraNuZZaZkd7xI1ZbiZ9yc+wbeAS4fHovvr/iCNHpRm98sKHw1JEccunIV\nNZ/OnMDMzXihhXNpkx9GYOjMliaBAonbO5vbClxFCZNRbTScB9oKJ3YRybKHAWZS\neQU++/MaAomErJvb5Rxj8rcyD5WWFJjdJRNHxh25VwKBgQDvLOuabYi8YKkB8AOO\no1uKmuV/6zmddcVx7B/X5hbfhjxqfh4J4laq1uSVO2xL19Bh+THkSSPzkCFBsZ0a\nRyEm+9I0RNJT3YBJCAzgSWJVhaSvhUhlo1cTQy9m5oO8b9rs33IYSmU3tz6FqDuU\niaGOs8GK/Q/jlL2jvYYwC0xCcwKBgQDVfKyqzxRYn0nuH9Bjo2hFKFUfV7ZtkhPc\nVGMZRQcuOlFkgiCBu8dhrgjBA4cMIFOqRxNMzXKphnKaPLTaDqe6+s39LoxgdQiH\n5nU/0lV8GFQBfDlegCZccsMNiCgvMFhVpBoW0rbRLDndrPEJU4lJLWvFVYrhO1GU\nHgjRXDJFlwKBgCulzvlHtARsv2sTGhMVzMbmratCiikqLPY1WTpVSydPoAbvLRww\nqhBTVzPEvGa649R9XZWDo4P3cZpDh6AcCvjKS/ot9RRI//hT98WWntNsqDk/4Y5q\n2KEzSZtFxhTFdPZ1cKTuLrqUPly17umUlF8ufsuWkye9JT6Uf8CUzz3xAoGARJ9g\nuT77IUmCcCKVz5FVEPXX9s0w/KN58tbFS/geSMPCKfaSEGGVw1Y3xiMmI8W4XwGd\nuJBJjSiEagOddoJDdBzuXbW6tb6o0VZI1gz8IXmIdznBDxlOO2VAQXdEw3ZczpqD\nMFbnIPGAYDsY95B8jqMlAzdt/twcauoEl5d1KV0CgYBkqA+L6f8hkf/lpCQBaUVb\ngIGL3UQXIPiEMpxUaQg8dWHscPJPYnSO3ClmqXThqKMQga9mw35CsTajkX/fbpin\n+pEbbRDqhnb+FkIf6Dwfs6QOWqvJ8D79AMNqY+bZuM/sqtlC4YzfJTUhf6frxF7e\nu4MXrC34MrWkGCmdXkRS8A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-jrocn@myparksvisualizationapp.iam.gserviceaccount.com",
+  "client_id": "107010770928214029196",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-jrocn%40myparksvisualizationapp.iam.gserviceaccount.com"
+}
